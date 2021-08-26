@@ -1,0 +1,13 @@
+---
+enable: true
+topTitle: Hello, I am Josia
+content: >
+  # How can I help you?
+
+  Functional, personal and simple design and production for a more efficient workflow.
+  Website currently under construction, some placeholders still present.
+buttonName: Contact me
+buttonURL: contact
+image: images/hero/home.jpg
+videoThumb: images/hero/popup-thumb.png
+videoURL: https://www.youtube.com/watch?v=dQw4w9WgXcQ

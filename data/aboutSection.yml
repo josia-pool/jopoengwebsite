@@ -1,0 +1,18 @@
+---
+enable: true
+topTitle: About
+title: >
+  ## About me
+
+  Personal 
+content: >
+  ### I design and build ultimate things.
+
+  During my work in a laboratory I started learning other things to complement my work.
+  One of such skills is 3D designing and printing functional designs which make work and life more efficient.
+
+button1Name: Contact me
+button2Name: Download CV
+button1Target: contact
+button2Target: contact
+image: images/about/about-img.jpg
