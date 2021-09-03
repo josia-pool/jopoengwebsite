@@ -1,1 +1,20 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Portfolios on JoPo engineering - 3Ddesign and production</title><link>https://jopoengineering.com/portfolio/</link><description>Recent content in Portfolios on JoPo engineering - 3Ddesign and production</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Tue, 30 Mar 2021 12:49:27 +0600</lastBuildDate><atom:link href="https://jopoengineering.com/portfolio/index.xml" rel="self" type="application/rss+xml"/><item><title>Aliqout rack</title><link>https://jopoengineering.com/portfolio/aliqout-rack/</link><pubDate>Tue, 30 Mar 2021 12:49:27 +0600</pubDate><guid>https://jopoengineering.com/portfolio/aliqout-rack/</guid><description>This was my first design that I sold 40 units (although in white, not yellow color) of to my company, they were very happy with the end results.</description></item></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Portfolios on JoPo engineering - 3Ddesign and production</title>
+    <link>https://jopoengineering.com/portfolio/</link>
+    <description>Recent content in Portfolios on JoPo engineering - 3Ddesign and production</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 30 Mar 2021 12:49:27 +0600</lastBuildDate><atom:link href="https://jopoengineering.com/portfolio/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Aliqout rack</title>
+      <link>https://jopoengineering.com/portfolio/aliqout-rack/</link>
+      <pubDate>Tue, 30 Mar 2021 12:49:27 +0600</pubDate>
+      
+      <guid>https://jopoengineering.com/portfolio/aliqout-rack/</guid>
+      <description>This was my first design that I sold 40 units (although in white, not yellow color) of to my company, they were very happy with the end results.</description>
+    </item>
+    
+  </channel>
+</rss>
