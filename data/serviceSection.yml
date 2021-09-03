@@ -1,45 +1,28 @@
 ---
 enable: true
-topTitle: Working Area
+topTitle: Provided services
 title: >
-  ## Creative Services
+  ## Design, Prototyping & Production
 
-  Enjoy team diversity and increase their networks among others people in
-  various fields by provided.
+  I will personally make sure of it that you will leave a satisfied costumer.
 service:
   - content: >
-      #### UI/UX Design 
+      #### 3D design
 
-      Lorem ipsum dolor sit amet conset sadipscing elitr, sed diam nonumy eirmod
-      tempor invidunt ut labore et dolore magna aliquyam erat.
+      I will design your product completely to your wishes, making sure to periodically check in to see if we are on the right track.
     image: images/service/ui-ux.svg
   - content: >
-      #### Web Development 
+      #### Rapid prototyping
 
-      Lorem ipsum dolor sit amet conset sadipscing elitr, sed diam nonumy eirmod
-      tempor invidunt ut labore et dolore magna aliquyam erat.
+      Once a 3D model is made, I can quickly 3d-print it to test if it actually works to your wishes. If not, no problem. I can make adjustments and test again within a short time period
     image: images/service/web.svg
   - content: >
-      #### Creative Design 
+      #### Production 
 
-      Lorem ipsum dolor sit amet conset sadipscing elitr, sed diam nonumy eirmod
-      tempor invidunt ut labore et dolore magna aliquyam erat.
+      When the prototype is up to standards you can decide how many you want, and I will produce them for you.
     image: images/service/creative.svg
   - content: >
-      #### Branding
+      #### Other services 
 
-      Lorem ipsum dolor sit amet conset sadipscing elitr, sed diam nonumy eirmod
-      tempor invidunt ut labore et dolore magna aliquyam erat.
-    image: images/service/branding.svg
-  - content: >
-      #### UI/UX Design
-
-      Lorem ipsum dolor sit amet conset sadipscing elitr, sed diam nonumy eirmod
-      tempor invidunt ut labore et dolore magna aliquyam erat.
-    image: images/service/ui-ux.svg
-  - content: >
-      #### Web Development
-
-      Lorem ipsum dolor sit amet conset sadipscing elitr, sed diam nonumy eirmod
-      tempor invidunt ut labore et dolore magna aliquyam erat.
-    image: images/service/web.svg
+      While I have not that much experience in this, I can also design and make things such as electronics.
+    image: images/service/creative.svg
